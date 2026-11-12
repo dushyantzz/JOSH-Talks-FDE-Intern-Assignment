@@ -1,0 +1,7 @@
+date: 2026-11-11
+python: 3.13.16
+torch: 2.8.0+cu128 | torchaudio: 2.8.0+cu128
+pyannote.audio: 3.3.2 | pyannote.metrics: 3.2.1
+pipeline: pyannote/speaker-diarization-3.1
+dataset: diarizers-community/voxconverse (dev), clips: ['clip019', 'clip040', 'clip023']
+strict: collar=0.0, skip_overlap=False | lenient: collar=0.25, skip_overlap=True

@@ -1,0 +1,7 @@
+clip,system,dur_s,ref_spk,hyp_spk,overlap,DER_strict,miss%,FA%,conf%,DER_lenient,JER_strict
+clip019,pyannote-3.1 (blind),158,4,3,29.0%,20.2,3.9,3.9,12.3,6.3,53.9
+clip019,pyannote-3.1 (oracle #spk),158,4,4,29.0%,27.7,3.9,3.9,19.9,8.7,53.4
+clip023,pyannote-3.1 (blind),181,10,10,0.0%,5.9,3.3,1.0,1.6,3.8,7.3
+clip023,pyannote-3.1 (oracle #spk),181,10,10,0.0%,5.9,3.3,1.0,1.6,3.8,7.3
+clip040,pyannote-3.1 (blind),337,6,6,2.2%,3.6,2.0,0.5,1.1,1.3,7.6
+clip040,pyannote-3.1 (oracle #spk),337,6,6,2.2%,3.6,2.0,0.5,1.1,1.3,7.6
